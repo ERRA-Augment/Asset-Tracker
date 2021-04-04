@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template: 1fr 5fr 1fr / 1fr 15fr;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.logo {
+    grid-row: 1;
+    grid-column: 1;
+
+}
+
+.header {
+    background-color: #32373B;
+}
+
+.body {
+    background-color: #32373B;
+    grid-row: 2/ -1;
+    grid-column: 1/ -1;
+    border-top: 2px solid;
+    border-color: grey;
+}
+
