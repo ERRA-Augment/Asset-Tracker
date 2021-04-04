@@ -1,0 +1,7 @@
+.navbar__main {
+    display: flex;
+    border: 2px solid white;
+    height: 100%;
+    width: 100%;
+
+}
