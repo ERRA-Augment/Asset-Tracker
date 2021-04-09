@@ -10,4 +10,3 @@ function Login() {
 }
 
 export default Login
-Top Right Login/Sign Up Button

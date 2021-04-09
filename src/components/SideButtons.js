@@ -5,7 +5,7 @@ function SideButtons() {
     return (
         <div>
            
-            {/* Sidebar-Buttons: MARKET WATCHLIST NEWS THEME LOGOUT*/}   
+            {/* Sidebar-Buttons: MARKET WATCHLIST NEWS THEME SUPPORT LOGOUT*/}   
 
         </div>
     )

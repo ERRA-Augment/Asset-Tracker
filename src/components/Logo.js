@@ -1,5 +1,5 @@
 import React from 'react'
-import ".././css/logo.css"
+import ".././css/images.css"
 import { imagestore } from "../images.js"
 
 function Logo() {
